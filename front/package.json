@@ -1,0 +1,16 @@
+{
+  "name": "front",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "tailwindcss": "^1.9.3"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0"
+  }
+}
